@@ -12,10 +12,11 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="PracticeFunctions.cpp" />
-    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="TemplatesPractice.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="PracticeFunctions.h" />
+    <ClInclude Include="Stack.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{23D82C63-F4EA-4A47-B1A4-B5A032593781}</ProjectGuid>
