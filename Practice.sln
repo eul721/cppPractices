@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Practice", "Practice\Practice.vcxproj", "{23D82C63-F4EA-4A47-B1A4-B5A032593781}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UnitTestPractice", "UnitTestPractice\UnitTestPractice.vcxproj", "{E9C2E14C-915D-4159-B15F-2A80E5672553}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23D82C63-F4EA-4A47-B1A4-B5A032593781}.Debug|Win32.ActiveCfg = Debug|Win32
+		{23D82C63-F4EA-4A47-B1A4-B5A032593781}.Debug|Win32.Build.0 = Debug|Win32
+		{23D82C63-F4EA-4A47-B1A4-B5A032593781}.Release|Win32.ActiveCfg = Release|Win32
+		{23D82C63-F4EA-4A47-B1A4-B5A032593781}.Release|Win32.Build.0 = Release|Win32
+		{E9C2E14C-915D-4159-B15F-2A80E5672553}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E9C2E14C-915D-4159-B15F-2A80E5672553}.Debug|Win32.Build.0 = Debug|Win32
+		{E9C2E14C-915D-4159-B15F-2A80E5672553}.Release|Win32.ActiveCfg = Release|Win32
+		{E9C2E14C-915D-4159-B15F-2A80E5672553}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal
